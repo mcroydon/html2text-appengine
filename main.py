@@ -1,6 +1,5 @@
 from html2text import html2text
 
-from google.appengine.api import users
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp.util import run_wsgi_app
 
